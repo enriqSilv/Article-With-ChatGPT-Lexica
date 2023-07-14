@@ -7,7 +7,8 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso ChatGPT for Devs da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso ChatGPT for Devs da [DIO](https://dio.me). <br/>
+> [Veja este artigo publicado lá](https://digitalinnovation.one/artigos/maximizando-o-potencial-do-salesforce-marketing-cloud-e-seu-ambiente-de-desenvolvimento)
 
 ## 💻 Tecnologias utilizadas no projeto
 
